@@ -1,0 +1,2 @@
+# project
+multiple dieases predictor
